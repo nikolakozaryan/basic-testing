@@ -2,31 +2,17 @@
 // import { simpleCalculator, Action } from './index';
 
 describe('simpleCalculator tests', () => {
-  test('should add two numbers', () => {
-    // Write your test here
-  });
+  test('should add two numbers', () => {});
 
-  test('should subtract two numbers', () => {
-    // Write your test here
-  });
+  test('should subtract two numbers', () => {});
 
-  test('should multiply two numbers', () => {
-    // Write your test here
-  });
+  test('should multiply two numbers', () => {});
 
-  test('should divide two numbers', () => {
-    // Write your test here
-  });
+  test('should divide two numbers', () => {});
 
-  test('should exponentiate two numbers', () => {
-    // Write your test here
-  });
+  test('should exponentiate two numbers', () => {});
 
-  test('should return null for invalid action', () => {
-    // Write your test here
-  });
+  test('should return null for invalid action', () => {});
 
-  test('should return null for invalid arguments', () => {
-    // Write your test here
-  });
+  test('should return null for invalid arguments', () => {});
 });

@@ -10,11 +10,7 @@ describe('partial mocking', () => {
     jest.unmock('./index');
   });
 
-  test('mockOne, mockTwo, mockThree should not log into console', () => {
-    // Write your test here
-  });
+  test('mockOne, mockTwo, mockThree should not log into console', () => {});
 
-  test('unmockedFunction should log into console', () => {
-    // Write your test here
-  });
+  test('unmockedFunction should log into console', () => {});
 });
